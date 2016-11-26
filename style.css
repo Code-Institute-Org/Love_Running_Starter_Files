@@ -21,7 +21,7 @@ body {
 }
 
 
-h2{
+h2 {
 	
 
 }
@@ -36,7 +36,7 @@ img {
 }
 
 
-#header-inner{
+#header-inner {
 	
 }
 
@@ -46,7 +46,7 @@ img {
 }
 
 
-#inner-wrapper2{
+#inner-wrapper2 {
 	
 }
 
@@ -56,11 +56,11 @@ img {
 
 }
 
-#heart i{
+#heart i {
 	
 }
 
-#overview{
+#overview {
 	
 }
 
@@ -72,11 +72,11 @@ img {
 	
 }
 
-#times{
+#times {
 	
 }
 
-#times ul p{
+#times ul p {
  
 
 }
@@ -91,20 +91,20 @@ img {
 
 @media screen  and (max-width: 768px) {
 
-	h2{
+	h2 {
 		font-size: 150%;
 	}
 
-	h3{
+	h3 {
 		font-size: 125%;
 	}
 
-	p{
+	p {
 		font-size: 100%;
 	}
 
 
-	#overview, #times, #heart, #community{
+	#overview, #times, #heart, #community {
 		width: 100%;
 	}
 
@@ -117,28 +117,27 @@ img {
 		padding: 15px;
 	}
 
-	#times{
-		float:left;
+	#times {
+		float: left;
 		width: 50%;
 		min-height: 200px;
-	
 	}
 
-	#times ul p{
-	 font-size: 70%;
+	#times ul p {
+		font-size: 70%;
 	}
 
 	#community {
 		font-size: 400%;
 		text-align: center;
 		min-height: 200px;
-		float:right;
+		float: right;
 		margin: 0 auto;
 		width: 50%;
 	}
 
-	#community i{
-	padding-top: 20px;
+	#community i {
+		padding-top: 20px;
 	}
 
 }
