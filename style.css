@@ -107,11 +107,14 @@ img {
 	#overview, #times, #heart, #community {
 		width: 100%;
 	}
+	
+	#overview {
+	  padding-left : 0px;
+	}
 
 	p {
 		font-family: 'Alegreya Sans', sans-serif;
-		color: #888888;
-		font-size: 115%;
+		color: #6991AC;
 		line-height: 100%;
 		text-align: justify;
 		padding: 15px;
